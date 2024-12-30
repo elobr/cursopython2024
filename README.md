@@ -1,2 +1,2 @@
-# cursopython2024
+# meucursogit
 Criando repositórios no github
